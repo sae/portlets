@@ -1,0 +1,9 @@
+Simple portlet engine. v1.0
+Allows reload portlet classes without restart application.
+
+Required:
+- dom4j
+- log4j
+
+Ready to use in production.
+
